@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mrjoshchang
 - 👀 I’m interested in software automation, web development, movies, and books.
 - 🌱 I’m currently learning the React library and frameworks such as NextJS.
-- Here's a link to my website [AutomatedQualityAssurance](https://www.automatedqualityassurance.com){:target="_blank"}
+- Here's a link to my website [AutomatedQualityAssurance](https://www.automatedqualityassurance.com)
+- [Opens in new tab](https://external.ink?to=/placeholder.com)
 ..
 <!---
 mrjoshchang/mrjoshchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
