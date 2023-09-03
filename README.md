@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the React library and frameworks such as NextJS.
 - Here's a link to my website [AutomatedQualityAssurance](https://www.automatedqualityassurance.com)
 - [Opens in new tab](https://external.ink?to=/placeholder.com)
+- TEst <a target="_blank" href="google.com">Click me</a>
 ..
 <!---
 mrjoshchang/mrjoshchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
