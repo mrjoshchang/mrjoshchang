@@ -9,3 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![MrJoshChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjoshchang&show_icons=true&theme=highcontrast)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrjoshchang)](https://github.com/ryo-ma/github-profile-trophy)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=joshchang9009)
