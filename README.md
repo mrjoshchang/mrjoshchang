@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mrjoshchang
-- 👀 I’m interested in software automation, movies, and fiction.
-- 🌱 I’m currently learning about JavaScript and TypeScript.
+- 👀 I’m interested in software automation, web development, movies, and books.
+- 🌱 I’m currently learning the React library and frameworks such as NextJS.
 - 💞️ I’m looking to collaborate on software automation testing. 
-- 📫 How to reach me on Discord at vulgar_swami#2412.
 ..
 <!---
 mrjoshchang/mrjoshchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
