@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrjoshchang
-- 👀 I’m interested in software automation, web development, movies, and books.
+- 👀 I’m interested in software automation, movies, and books.
 ..
 <!---
 mrjoshchang/mrjoshchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
